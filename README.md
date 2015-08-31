@@ -2,7 +2,7 @@
 Socicon was created to give people an easy way to customize social icons.  
 
 # Usage
-1. Install with: `meteor add carlosbaraza:socicon`
+1. Install with: `meteor add carlosbaraza:meteor-socicon`
 2. Include the classes `socicon` and `socicon-SOCIALNETWORK`. Example:
 
 ```html
